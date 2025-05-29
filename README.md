@@ -78,7 +78,7 @@ Displays results instantly:
 
 ## User interface:
 
-     ![image alt](Positive Result.png)
+     ![image alt](https://github.com/SathishB-1/Diabetes-Prediction/blob/675c947aa2de5a4a120219871eadfc1701fecc9a/Positive%20Result.png)
 
 
 GitHub:(https://github.com/SathishB-1)
